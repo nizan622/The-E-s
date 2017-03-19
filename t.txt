@@ -1,1 +1,4 @@
-ma kore olam
+<<<<<<< HEAD
+ma\ kore olam
+=======
+
